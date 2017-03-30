@@ -36,3 +36,4 @@ Draw - Daniel, Dancho <br>
 drawBall, drawPaddle, drawScore, drawLives - Yoanna
 <br>
 drawBricks - Kiril, Ceco<br>
+"# Javascript-UI-and-DOM-Teamwork" 
